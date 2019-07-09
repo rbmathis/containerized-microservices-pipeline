@@ -1,3 +1,4 @@
+[![Board Status](https://tspbart.visualstudio.com/ed798753-f36c-41ab-8e03-9164e7f1cdf0/3364b8ca-671f-48df-986d-1056e52195b8/_apis/work/boardbadge/35d114e7-6d1b-43c1-b33a-34f35ddc8595)](https://tspbart.visualstudio.com/ed798753-f36c-41ab-8e03-9164e7f1cdf0/_boards/board/t/3364b8ca-671f-48df-986d-1056e52195b8/Microsoft.RequirementCategory)
 # Containerized Micro-services
 
 This project is a reference solution for building out a full Production ready micro-services solution. This solution is hosted in Kubernetes running on Azure. All apps and services have a small (micro-service) footprint of responsibilities and are run in Docker containers. This solution is meant to be a best practice example of a micro-service development and hosting solution ready for Production.
